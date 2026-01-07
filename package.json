@@ -1706,7 +1706,7 @@
         "@vscode/extension-telemetry": "^0.8.4",
         "arch": "^2.1.0",
         "fs-extra": "^11.2.0",
-        "glob": "^7.2.0",
+        "glob": "^9.0.0",
         "iconv-lite": "^0.6.3",
         "inversify": "^6.0.2",
         "jsonc-parser": "^3.0.0",
